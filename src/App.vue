@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+  카티홈페이지에 오신 여러분을 환영합니다
     <div id="nav">
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link>
